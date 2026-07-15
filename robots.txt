@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-sefjdg.thefarmhand.com.au/sitemap.xml
